@@ -41,16 +41,6 @@
      </div>
    </kbd>
   <kbd>
-     <div align="center">
-         <p>
-       <br> 
-         <strong>Profile Views</strong>
-       <br>
-       <br>
-           <!-- Profile views counter removed due to non-working status -->
-           <span>Profile views count currently unavailable.</span>
-         </p>
-     </div>
    </kbd>
    <kbd>
      <div align="center">
@@ -103,12 +93,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=echokarun&theme=tokyonight" width="340px" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=echokarun&theme=tokyonight&utcOffset=+8.0" width="340px" />
   </div>
-
-  <!-- Wakatime Stats  -->
-   <div style="margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=echokarun&layout=compact&theme=tokyonight&hide_border=true" width="680px" />
-   </div>
-  
 </div>
 
 <!-- Language and Tools -->
@@ -140,7 +124,6 @@
         <br>
         
   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,postgres&perline=10)](https://skillicons.dev)
-  <img src="https://custom-icon-badges.demolab.com/badge/PocketBase-343a40.svg?logo=pocketbase&logoColor=white" height="28px" alt="PocketBase"/>
       </p>
     </div>
   </kbd>
