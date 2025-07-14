@@ -1,27 +1,215 @@
-# 💫 About Me:
-🔭 I’m currently working on learning different programming language.<br>🤝 I’m looking for help to develop some projects in collaboration and sharing experience.<br>🌱 I’m currently learning Javascript, Typescript, React, ReactNative...<br>⚡ Fun fact: I love to travel and watch series or movies in my free time.
+<a href="https://github.com/echokarun">
+  <img src="https://img.shields.io/github/followers/echokarun?label=Followers&style=social" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/echokarun?tab=repositories">
+  <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-echokarun-blueviolet" alt="Star My Repos" />
+</a>
+<a href="https://github.com/echokarun">
+  <img src="https://komarev.com/ghpvc/?username=echokarun&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</a>
+<a href="https://github.com/echokarun">
+  <img src="https://img.shields.io/github/last-commit/echokarun/echokarun?color=green" alt="Last Commit" />
+</a>
+<a href="https://github.com/echokarun">
+  <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
+</a>
+</p>
+
+![MASTER-HEAD](./assets/api_animated_gif.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Karun%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+%E2%80%94+it+really+helps!)](https://git.io/typing-svg)
+<img src="./assets/border_separator.gif">
+
+<div align="center">
+  <h3>Profile Info</h3>
+  <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Contact me</strong>
+       <br>
+       <br>
+         <a href="mailto:rayamajhikarun@gmail.com">
+            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
+          </a>
+           <a href="https://github.com/echokarun">
+            <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
+          </a>
+          <a href="https://www.linkedin.com/in/karun-rayamajhi-b0293932a/">
+            <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
+          </a>
+         </p>
+     </div>
+   </kbd>
+  <kbd>
+     <div align="center">
+         <p>
+       <br> 
+         <strong>Profile Views</strong>
+       <br>
+       <br>
+           <img src="https://profile-counter.glitch.me/echokarun/count.svg" width="350px" />
+         </p>
+     </div>
+   </kbd>
+   <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Followers Count</strong>
+       <br>
+       <br>
+       <br>
+          <img src="https://img.shields.io/github/followers/echokarun?label=Followers&style=social" alt="followers-count" width="150px"> 
+       <br>
+       <br>
+         </p>
+     </div>
+  </kbd>
+</div>
+
+<br>
+<div align="center">
+  <img src="./assets/terminal.gif" />
+</div>
+<img src="./assets/border_separator.gif">
+
+<!-- Github Stats -->
+<div align="center">
+
+  | Top Languages | Trophies |
+  | --- | --- |
+  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echokarun&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="315px"/> | <img src="https://github-profile-trophy.vercel.app/?username=echokarun&theme=tokyonight&column=4&no-frame=true&margin-w=10&margin-h=10" width="315px"/> |
+  
+  <h3>Github Stats</h3>
+
+  <!-- Profile Summary and Streak -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=echokarun&theme=tokyonight" width="680px" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
+    <img src="https://streak-stats.demolab.com?user=echokarun&theme=tokyonight&hide_border=true" width="680px" />
+  </div>
+
+  <!-- Language Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=echokarun&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=echokarun&theme=tokyonight" width="340px" />
+  </div>
+
+  <!-- Activity Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=echokarun&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=echokarun&theme=tokyonight&utcOffset=+8.0" width="340px" />
+  </div>
+
+  <!-- Wakatime Stats  -->
+   <div style="margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=echokarun&layout=compact&theme=tokyonight&hide_border=true" width="680px" />
+   </div>
+  
+</div>
+
+<!-- Language and Tools -->
+
+<div align="center">
+  <h3>Technologies and Tools</h3>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Programming Languages</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java,bash&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Libraries, Frameworks & Databases</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>DevOps & Cloud</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,cloudflare,azure,vercel&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Operating Systems, Platforms & Networks</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,windows,discord,github,linkedin,instagram,stack-overflow&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>IDEs & Code Editors, Testing & Monitoring</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,idea,postman&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Design & Creative Tools, Build Tools & Package Managers</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,npm&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+</div>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/log.karun) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/echokarun) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/echokarun) 
+<img src="./assets/border_separator.gif">
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=echokarun&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=echokarun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=echokarun&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 🌟 Enjoying My Projects?
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=echokarun&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+If you find my work helpful or interesting, please consider **starring my repositories** or **following me on GitHub** — it really motivates me to keep building and sharing! 😊
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+👉 [View All My Repositories](https://github.com/echokarun?tab=repositories)  
+👉 [Follow Me on GitHub](https://github.com/echokarun)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=echokarun&limit=5&theme=gotham&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=echokarun&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Thanks for your support! 💖
