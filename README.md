@@ -13,7 +13,6 @@
 <a href="https://github.com/echokarun">
   <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
 </a>
-</p>
 
 ![MASTER-HEAD](./assets/api_animated_gif.gif)
 
@@ -48,7 +47,8 @@
          <strong>Profile Views</strong>
        <br>
        <br>
-           <img src="https://profile-counter.glitch.me/echokarun/count.svg" width="350px" />
+           <!-- Profile views counter removed due to non-working status -->
+           <span>Profile views count currently unavailable.</span>
          </p>
      </div>
    </kbd>
@@ -88,7 +88,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=echokarun&theme=tokyonight" width="680px" />
   </div>
 
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <img src="https://streak-stats.demolab.com?user=echokarun&theme=tokyonight&hide_border=true" width="680px" />
   </div>
 
@@ -125,7 +125,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java,bash&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -139,21 +139,8 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=10)](https://skillicons.dev)
-      </p>
-    </div>
-  </kbd>
-
-  <kbd>
-    <div align="center">
-      <p>
-        <br>
-        <strong>DevOps & Cloud</strong>
-        <br>
-        <hr width="675">
-        <br>
-        
-  [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,cloudflare,azure,vercel&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,postgres&perline=10)](https://skillicons.dev)
+  <img src="https://custom-icon-badges.demolab.com/badge/PocketBase-343a40.svg?logo=pocketbase&logoColor=white" height="28px" alt="PocketBase"/>
       </p>
     </div>
   </kbd>
@@ -167,7 +154,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,windows,discord,github,linkedin,instagram,stack-overflow&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,windows,github,linkedin,instagram&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -181,7 +168,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,idea,postman&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,postman&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -190,18 +177,18 @@
     <div align="center">
       <p>
         <br>
-        <strong>Design & Creative Tools, Build Tools & Package Managers</strong>
+        <strong>Build Tools & Package Managers</strong>
         <br>
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,npm&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,npm,pnpm&perline=10)](https://skillicons.dev)
       </p>
+      <span style="font-size: 12px;">*Note: Used Figma for development (not design).</span>
     </div>
   </kbd>
 
 </div>
-
 
 <img src="./assets/border_separator.gif">
 
