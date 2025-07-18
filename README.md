@@ -160,7 +160,7 @@
     <div align="center">
       <p>
         <br>
-        <strong>Build Tools & Package Managers</strong>
+        <strong>Build Tools and Package Managers</strong>
         <br>
         <hr width="675">
         <br>
