@@ -177,7 +177,7 @@
 
 ## 🌟 Enjoying My Projects?
 
-If you find my work helpful or interesting, please consider **starring my repositories** or **following me on GitHub** — it really motivates me to keep building and sharing! 😊
+If you find my work helpful or interesting, please consider **starring my repositories** or **following me on GitHub** — it really motivates me to keep building, sharing and constant learning.😊
 
 👉 [View All My Repositories](https://github.com/echokarun?tab=repositories)  
 👉 [Follow Me on GitHub](https://github.com/echokarun)
