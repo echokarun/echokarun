@@ -78,13 +78,6 @@ Backed by practical DevOps (**Docker, Nginx, GitHub Actions, Cloudflare DNS, Lin
 
 ---
 
-## 🏅 Awards & Languages
-
-- 🥇 **Company Hackathon, 1st Place**, Chautari Digital (Nov 2025)
-- 🗣️ **Nepali** (Native) · **Hindi** (Fluent) · **English** (Conversational)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
