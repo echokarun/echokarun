@@ -22,12 +22,12 @@
 
 ## 👨‍💻 About Me
 
-Frontend Engineer with **1.5+ years** shipping production web & mobile apps in **React, Next.js, TypeScript, and React Native** — owning frontend architecture, feature-based module boundaries, and server-state modeling with **TanStack Query**.
+Frontend Engineer with **1.5+ years** of experience shipping production web & mobile apps in **React, Next.js, TypeScript, and React Native**. I own frontend architecture, feature-based module boundaries, and server-state modeling with **TanStack Query**.
 
 Backed by practical DevOps (**Docker, Nginx, GitHub Actions, Cloudflare DNS, Linux VPS**) and clean integration with third-party & existing backends (REST APIs, PocketBase, Appwrite). I use **AI-assisted development** (Claude API, Claude Code) as a daily engineering tool.
 
 - 🔭 Currently building a **drag-and-drop Form Builder** for a school ERP admin panel
-- 🏆 **1st Place** — Company Hackathon, Chautari Digital (Nov 2025)
+- 🏆 **1st Place** at the Company Hackathon, Chautari Digital (Nov 2025)
 - 🌱 Sharpening **Testing (Vitest, Playwright, RTL)**, **Accessibility (WCAG)** & **Core Web Vitals**
 - 📍 Kathmandu, Nepal
 
@@ -69,58 +69,38 @@ Backed by practical DevOps (**Docker, Nginx, GitHub Actions, Cloudflare DNS, Lin
 
 ---
 
-## 💼 Experience
-
-### Software Engineer — Frontend
-**Digital Nepal** · Kathmandu · *May 2026 – Present*
-
-- Built a **drag-and-drop Form Builder** for a school ERP admin panel using Next.js, React, TypeScript & dnd-kit — canvas, layers panel, field palette, and property panel.
-- Wired the form builder to backend APIs for **JSONB schema persistence**; rendered a live Grade management page from a published form template.
-- Rebuilt the auth flow (login, forgot-password, OTP, change-password) with **shadcn/ui, React Hook Form & Zod**; migrated server state to **TanStack Query** with optimistic rollback.
-- Led migration to a **feature-based architecture** with import boundaries enforced in CI (Biome, Husky); leading contributor on a 10+ developer team.
-
-### Software Engineer — Frontend & DevOps
-**Chautari Digital** · Satdobato, Lalitpur · *Feb 2025 – Apr 2026*
-
-- Developed web & mobile frontends (React, Next.js, TypeScript, React Native) across multiple production projects to pixel-perfect Figma designs.
-- Contributed to **LMKZ (Link My Kidz)** — built daily insights, ECD tracking, and AI-powered child sentiment analysis screens; integrated with backend API & AWS S3.
-- Authored CI/CD pipelines via GitHub Actions; built & deployed **blurkart.com** on a NepalCloud VPS (Nginx, Docker, PostgreSQL), including a full VPS migration.
-- Mitigated the **React2Shell vulnerability (CVE-2025-55182)** across all company projects; managed Cloudflare DNS & led domain recovery procedures.
-
----
-
 ## 🎓 Education
 
-- **Bachelor of Computer Applications (BCA)** — Software Development · *2024 – 2028 (Expected)*
-  VS International College, New Baneshwor, Kathmandu — *Currently: 4th Semester*
-- **+2 Science (Higher Secondary)** — *Completed 2024*
+- **Bachelor of Computer Applications (BCA)**, Software Development, *2024 to 2028 (Expected)*
+  VS International College, New Baneshwor, Kathmandu, *Currently: 4th Semester*
+- **+2 Science (Higher Secondary)**, *Completed 2024*
   Everest College, Thapathali, Kathmandu
 
 ---
 
 ## 🚀 Featured Projects
 
-### Dynamic Form Builder — *Digital Nepal ERP*
+### Dynamic Form Builder · *Digital Nepal ERP*
 > Next.js 16 · React 19 · TypeScript · Zustand · zundo · dnd-kit · React Hook Form · Zod · Tailwind v4 · shadcn/ui
 
-Drag-and-drop form builder for a school ERP admin panel — canvas, layers panel, field palette, and property panel with undo/redo. Zustand-based state with optimistic rollback; wired to backend APIs for JSONB schema persistence.
+Drag-and-drop form builder for a school ERP admin panel: canvas, layers panel, field palette, and property panel with undo/redo. Zustand-based state with optimistic rollback; wired to backend APIs for JSONB schema persistence.
 
-### Kidz Mobile — *Link My Kidz Parent App* · [repo](https://github.com/chautaridigitals/kidz-mobile)
+### Kidz Mobile · *Link My Kidz Parent App* · [repo](https://github.com/chautaridigitals/kidz-mobile)
 > React Native · Expo SDK 54 · TypeScript · Expo Router · Redux Toolkit · NativeWind · Firebase Push · i18n · Storybook
 
-Production parent-facing mobile app for LMKZ. Face-detection check-in (expo-camera), parent–teacher chat, attendance/meal/mood/ECD tracking, real-time Firebase push, full EN/NP i18n.
+Production parent-facing mobile app for LMKZ. Face-detection check-in (expo-camera), parent-teacher chat, attendance/meal/mood/ECD tracking, real-time Firebase push, full EN/NP i18n.
 
 ### Blurkart Admin Dashboard & Dynamic PocketBase Engine · [repo](https://github.com/chautaridigitals/blurkart-admin-v2)
 > Next.js 16 · React 19 · TypeScript · TanStack Query/Table · TipTap · Recharts · Zustand · Zod · PocketBase
 
-Collection-driven CRUD admin generated from PocketBase schema — order management with PDF invoice export, rich-text publishing (TipTap), and analytics dashboards. Reusable engine also powers the Tsuki client admin.
+Collection-driven CRUD admin generated from PocketBase schema: order management with PDF invoice export, rich-text publishing (TipTap), and analytics dashboards. Reusable engine also powers the Tsuki client admin.
 
 ### LMKZ (Link My Kidz)
 > React · React Native · TypeScript · TanStack Query · NativeWind · AWS S3 · PostgreSQL
 
 Multi-tenant child management platform monorepo (admin dashboard, website, Expo mobile app). Built web/mobile frontends for daily insights, ECD tracking, and AI child sentiment analysis.
 
-### Chautari Digital Website v2 — [chautaridigitals.com](https://chautaridigitals.com)
+### Chautari Digital Website v2 · [chautaridigitals.com](https://chautaridigitals.com)
 > Next.js 16 · TypeScript · Tailwind · GSAP · Framer Motion · TanStack Query · React Hook Form · Zod · PocketBase
 
 Production company site with CMS-driven blog, services, projects, and pricing pages; GSAP/Framer Motion animations, 3D Cobe globe, PocketBase-driven content, GitHub Actions CI/CD.
@@ -130,10 +110,10 @@ Production company site with CMS-driven blog, services, projects, and pricing pa
 
 Internal AI platform using the Claude API to analyze module architecture, generate design prompts, and run delta verification against backend endpoints; built API endpoints and the CI/CD pipeline.
 
-### Blurkart — [blurkart.com](https://blurkart.com)
+### Blurkart · [blurkart.com](https://blurkart.com)
 > Next.js 16 · React 19 · TypeScript · Redux Toolkit · PocketBase · Docker · Nginx · GitHub Actions
 
-E-commerce storefront (goggles & contact lenses) — catalog, cart, filters/search, SEO pass. Deployed on NepalCloud VPS (Nginx, Docker, GitHub Actions CI/CD), including a full VPS migration.
+E-commerce storefront (goggles & contact lenses): catalog, cart, filters/search, SEO pass. Deployed on NepalCloud VPS (Nginx, Docker, GitHub Actions CI/CD), including a full VPS migration.
 
 ### Portfolio & Other Projects · [github.com/echokarun](https://github.com/echokarun)
 > Next.js · TypeScript · Python · Bash
@@ -144,7 +124,7 @@ Portfolio (App Router), Dev Environment Automation (one-command Linux/terminal p
 
 ## 🏅 Awards & Languages
 
-- 🥇 **Company Hackathon — 1st Place**, Chautari Digital (Nov 2025)
+- 🥇 **Company Hackathon, 1st Place**, Chautari Digital (Nov 2025)
 - 🗣️ **Nepali** (Native) · **Hindi** (Fluent) · **English** (Conversational)
 
 ---
@@ -156,10 +136,6 @@ Portfolio (App Router), Dev Environment Automation (one-command Linux/terminal p
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=echokarun&theme=tokyonight" width="680"/>
 
 <img src="https://streak-stats.demolab.com?user=echokarun&theme=tokyonight&hide_border=true" width="680"/>
-
-| Top Languages | Trophies |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echokarun&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="400"/> | <img src="https://github-profile-trophy.vercel.app/?username=echokarun&theme=tokyonight&column=4&no-frame=true&margin-w=10&margin-h=10" width="400"/> |
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=echokarun&theme=tokyonight" width="340"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=echokarun&theme=tokyonight" width="340"/>
@@ -175,7 +151,7 @@ Portfolio (App Router), Dev Environment Automation (one-command Linux/terminal p
 
 ## 🌟 Enjoying My Projects?
 
-If you find my work helpful, consider **starring my repositories** or **following me** — it really motivates me to keep building and learning. 😊
+If you find my work helpful, consider **starring my repositories** or **following me**. It really motivates me to keep building and learning. 😊
 
 <a href="https://github.com/echokarun?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-echokarun-blue?style=for-the-badge&logo=github" alt="Repositories"/></a>
 <a href="https://github.com/echokarun"><img src="https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github" alt="Follow"/></a>
