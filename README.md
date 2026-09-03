@@ -65,16 +65,15 @@ Backed by practical DevOps (**Docker, Nginx, GitHub Actions, Cloudflare DNS, Lin
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,postman,npm,pnpm,yarn,jest,vitest&perline=8)](https://skillicons.dev)
 
 ### Libraries & Frameworks I Work With
-`React Native` `Expo` `Zustand` `TanStack Query` `TanStack Table` `React Hook Form` `Zod` `shadcn/ui` `dnd-kit` `Framer Motion` `GSAP` `TipTap` `Recharts` `PocketBase` `Clerk` `Stripe` `Firebase` `Storybook` `Playwright`
 
----
-
-## 🎓 Education
-
-- **Bachelor of Computer Applications (BCA)**, Software Development, *2024 to 2028 (Expected)*
-  VS International College, New Baneshwor, Kathmandu, *Currently: 4th Semester*
-- **+2 Science (Higher Secondary)**, *Completed 2024*
-  Everest College, Thapathali, Kathmandu
+- **State & Data:** `Zustand` `Redux Toolkit` `TanStack Query` `TanStack Table`
+- **Forms & Validation:** `React Hook Form` `Zod`
+- **UI & Styling:** `Tailwind CSS` `shadcn/ui` `NativeWind` `Framer Motion` `GSAP`
+- **Mobile:** `React Native` `Expo` `Expo Router` `Expo Camera` `Face Detector` `react-native-gifted-chat` `EAS Build` `Push Notifications` `i18n`
+- **Drag & Drop, Rich Text, Charts:** `dnd-kit` `TipTap` `Recharts`
+- **Auth, Payments & Backend:** `Clerk` `Stripe` `Plaid` `Dwolla` `PocketBase` `Appwrite` `Supabase` `Firebase` `REST APIs`
+- **Testing & Tooling:** `Vitest` `Playwright` `React Testing Library` `Storybook` `Biome` `Husky` `Turbopack`
+- **AI & Automation:** `Claude API` `Claude Code` `MCP`
 
 ---
 
