@@ -50,28 +50,82 @@ Backed by practical DevOps (**Docker, Nginx, GitHub Actions, Cloudflare DNS, Lin
 ## 🛠️ Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,bash&perline=6)](https://skillicons.dev)
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/><br/><sub><b>HTML</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/><br/><sub><b>CSS</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash"/><br/><sub><b>Bash</b></sub></td>
+  </tr>
+</table>
+</div>
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,styledcomponents,vite,threejs&perline=8)](https://skillicons.dev)
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/><sub><b>React</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="48" alt="Redux"/><br/><sub><b>Redux</b></sub></td>
+  </tr>
+</table>
+</div>
 
 ### Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,redis,sqlite,prisma,appwrite,supabase,graphql&perline=10)](https://skillicons.dev)
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=appwrite" width="48" alt="Appwrite"/><br/><sub><b>Appwrite</b></sub></td>
+  </tr>
+</table>
+</div>
 
 ### DevOps & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,git,aws,cloudflare,netlify,vercel,linux,ubuntu&perline=11)](https://skillicons.dev)
 
-### Tools & Testing
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,postman,npm,pnpm,yarn,jest,vitest&perline=8)](https://skillicons.dev)
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48" alt="Nginx"/><br/><sub><b>Nginx</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions"/><br/><sub><b>Actions</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" alt="Cloudflare"/><br/><sub><b>Cloudflare</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+  </tr>
+</table>
+</div>
+
+### Tools
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="48" alt="npm"/><br/><sub><b>npm</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="48" alt="pnpm"/><br/><sub><b>pnpm</b></sub></td>
+  </tr>
+</table>
+</div>
 
 ### Libraries & Frameworks I Work With
 
 - **State & Data:** `Zustand` `Redux Toolkit` `TanStack Query` `TanStack Table`
 - **Forms & Validation:** `React Hook Form` `Zod`
-- **UI & Styling:** `Tailwind CSS` `shadcn/ui` `NativeWind` `Framer Motion` `GSAP`
+- **UI & Styling:** `shadcn/ui` `NativeWind` `Framer Motion` `GSAP`
 - **Mobile:** `React Native` `Expo` `Expo Router` `Expo Camera` `Face Detector` `react-native-gifted-chat` `EAS Build` `Push Notifications` `i18n`
 - **Drag & Drop, Rich Text, Charts:** `dnd-kit` `TipTap` `Recharts`
-- **Auth, Payments & Backend:** `Clerk` `Stripe` `Plaid` `Dwolla` `PocketBase` `Appwrite` `Supabase` `Firebase` `REST APIs`
+- **Auth, Payments & Backend:** `Clerk` `Stripe` `Plaid` `Dwolla` `PocketBase` `Firebase` `REST APIs`
 - **Testing & Tooling:** `Vitest` `Playwright` `React Testing Library` `Storybook` `Biome` `Husky` `Turbopack`
 - **AI & Automation:** `Claude API` `Claude Code` `MCP`
 
