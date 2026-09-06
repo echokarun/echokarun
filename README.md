@@ -84,6 +84,9 @@ Backed by practical DevOps (**Docker, Nginx, GitHub Actions, Cloudflare DNS, Lin
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=appwrite" width="48" alt="Appwrite"/><br/><sub><b>Appwrite</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis"/><br/><sub><b>Redis</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite"/><br/><sub><b>SQLite</b></sub></td>
   </tr>
 </table>
 </div>
@@ -98,6 +101,8 @@ Backed by practical DevOps (**Docker, Nginx, GitHub Actions, Cloudflare DNS, Lin
     <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions"/><br/><sub><b>Actions</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" alt="Cloudflare"/><br/><sub><b>Cloudflare</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" alt="Ubuntu"/><br/><sub><b>Ubuntu</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
   </tr>
 </table>
 </div>
